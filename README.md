@@ -2,17 +2,22 @@
 Business Intelligence contest to pass AI Masters
 
 ##  Content
-There are several files
-1. solution.py - file with main algorithm
-2. test.py - small testing system
-3. main.py - entry point only to test, cause here you only need to send the solution.py file
-4. task.pdf - task explanation
+There are several folders and files
+1. img - folder with images that are used in notebooks
+2. solutions - has solutions for BI contest
+3. task.pdf - task explanation
 
 ## Dependencies
 1. numpy
+2. pandas
+3. matplotlib
+4. seaborn
+5. geopandas
+6. shapely
+7. geodatasets
 
 ## How to run
-Just write ```python main.py```
+Just watch and use jupyter notebooks in solutions folder
 
 ## Commit description
 | Name     | Description                                          |
